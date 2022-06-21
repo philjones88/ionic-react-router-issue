@@ -1,0 +1,7 @@
+{
+  "name": "react-router-blank-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
